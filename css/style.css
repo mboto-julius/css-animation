@@ -6,12 +6,13 @@
 
 .heading{
     color:blue;
-    font-size: 30px;
-    margin: 10% 40%;
+    font-size: 15px;
+    margin: 10% 20%;
     transition: all 0.5s;
 }
 
 .heading:hover{
-    color: cadetblue;
-    font-size: 40px;
+    color: brown;
+    font-size: 20px;
+    letter-spacing: 20px;
 }
