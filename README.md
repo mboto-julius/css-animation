@@ -1,11 +1,12 @@
-#CSS ANIMATION
+# CSS ANIMATION
 
 _My CSS Learning Trick_
 
-####How to use it
+#### How to use it
 
-\_Checkout to a different commit
-\_Understand the code
-\_Use it in your real world website
+_Clone the project_
+_Checkout to a different commit_
+_Understand the code_
+_Use it in your real world website_
 
-######Happy Learning!!!
+###### Happy Learning!!!
